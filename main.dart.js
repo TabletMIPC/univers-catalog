@@ -90165,9 +90165,9 @@ case 3:return A.A(null,r)}})
 return A.B($async$$1,r)},
 $S:613}
 A.a1r.prototype={
-$1(a){var s=this.a,r=t.iF
-a.Z5(0,s.gWA(),A.b([new A.u5(new A.hU(!0,"Haute Couture",r)),new A.u5(new A.hU(!0,"Pret-a-Porter",r))],t.t2),t.wQ,t.oo)
-a.Z5(0,s.gKj(),A.b([A.lx(1,"Berry Cape. Mouton Kaki.","assets/images/mod1_front.webp","assets/images/mod1_back.webp","BERRY"),A.lx(1,"Descripci\xf3n elegante del modelo 2.","assets/images/mod2_front.webp","assets/images/mod2_back.webp","Modelo 02"),A.lx(1,"Descripci\xf3n elegante del modelo 3.","assets/images/mod3_front.webp","assets/images/mod3_back.webp","Modelo 03"),A.lx(2,"Descripci\xf3n elegante del modelo 4.","assets/images/mod4_front.webp","assets/images/mod4_back.webp","Modelo 04"),A.lx(2,"Descripci\xf3n elegante del modelo 5.","assets/images/mod5_front.webp","assets/images/mod5_back.webp","Modelo 05"),A.lx(2,"Descripci\xf3n elegante del modelo 6.","assets/images/mod6_front.webp","assets/images/mod6_back.webp","Modelo 06"),A.lx(1,"Descripci\xf3n elegante del modelo 7.","assets/images/mod7_front.webp","assets/images/mod7_back.webp","Modelo 07"),A.lx(1,"Descripci\xf3n elegante del modelo 8.","assets/images/mod8_front.webp","assets/images/mod8_back.webp","Modelo 08"),A.lx(2,"Descripci\xf3n elegante del modelo 9.","assets/images/mod9_front.webp","assets/images/mod9_back.webp","Modelo 09"),A.lx(2,"Descripci\xf3n elegante del modelo 10.","assets/images/mod10_front.webp","assets/images/mod10_back.webp","Modelo 10")],t.mj),t.nb,t.LN)},
+$1(a){var s="FOX",r=this.a,q=t.iF
+a.Z5(0,r.gWA(),A.b([new A.u5(new A.hU(!0,"Haute Couture",q)),new A.u5(new A.hU(!0,"Pret-a-Porter",q))],t.t2),t.wQ,t.oo)
+a.Z5(0,r.gKj(),A.b([A.lx(1,"Berry Cape. Mouton Kaki.","assets/images/mod1_front.webp","assets/images/mod1_back.webp","BERRY"),A.lx(1,"Island Cape. Mouton Dart Brown.","assets/images/mod2_front.webp","assets/images/mod2_back.webp","ISLAND"),A.lx(1,"Masha. Mouton White Tibet.","assets/images/mod3_front.webp","assets/images/mod3_back.webp","MASHA"),A.lx(2,"Tibet. Mouton. Marron Tibet.","assets/images/mod4_front.webp","assets/images/mod4_back.webp","TIBET"),A.lx(2,"1919. Agneau. Leopard.","assets/images/mod5_front.webp","assets/images/mod5_back.webp","1919"),A.lx(2,"Bella. Agneau. Leopard.","assets/images/mod6_front.webp","assets/images/mod6_back.webp","BELLA"),A.lx(1,"Fox. Renard. \xc9cru.","assets/images/mod7_front.webp","assets/images/mod7_back.webp",s),A.lx(1,"Fox. Renard. Kaki.","assets/images/mod8_front.webp","assets/images/mod8_back.webp",s),A.lx(2,"Fox. Renard. Orange.","assets/images/mod9_front.webp","assets/images/mod9_back.webp",s),A.lx(2,"Fox. Renard. Noir.","assets/images/mod10_front.webp","assets/images/mod10_back.webp",s)],t.mj),t.nb,t.LN)},
 $S:614}
 A.mQ.prototype={
 goz(){var s,r=this.c
@@ -90335,7 +90335,7 @@ $0(){var s=0,r=A.C(t.n3),q,p,o
 var $async$$0=A.D(function(a,b){if(a===1)return A.z(b,r)
 for(;;)switch(s){case 0:p=A.cm("sqlite3.wasm",0,null)
 s=3
-return A.v(A.S1("univers_app_web_v4",A.cm("drift_worker.js",0,null),p),$async$$0)
+return A.v(A.S1("univers_app_web_v5",A.cm("drift_worker.js",0,null),p),$async$$0)
 case 3:o=b
 p=o.c
 if(p.a!==0)A.ayP("Advertencia Web: Navegador sin soporte completo para SQLite: "+p.k(0))
