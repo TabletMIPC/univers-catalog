@@ -90337,7 +90337,7 @@ $0(){var s=0,r=A.C(t.n3),q,p,o
 var $async$$0=A.D(function(a,b){if(a===1)return A.z(b,r)
 for(;;)switch(s){case 0:p=A.cm("sqlite3.wasm",0,null)
 s=3
-return A.v(A.S1("univers_app_web_v11",A.cm("drift_worker.js",0,null),p),$async$$0)
+return A.v(A.S1("univers_app_web_v12",A.cm("drift_worker.js",0,null),p),$async$$0)
 case 3:o=b
 p=o.c
 if(p.a!==0)A.ayP("Advertencia Web: Navegador sin soporte completo para SQLite: "+p.k(0))
